@@ -1,0 +1,49 @@
+left ctrl
+left shift
+<
+w
+x
+c
+v
+b
+q
+s
+d
+f
+g
+a
+z
+e
+r
+t
+&
+é
+"
+'
+(
+- anchor
+è
+_
+ç
+à
+y
+u
+i
+o
+p
+h
+j
+k
+l
+m
+n
+,
+;
+:
+!
+right shift
+right ctrl
+left arrow
+down arrow
+up arrow
+right arrow
